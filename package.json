@@ -1,0 +1,24 @@
+{
+  "name": "gitui",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitui": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onvno/gitui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onvno/gitui/issues"
+  },
+  "homepage": "https://github.com/onvno/gitui#readme",
+  "dependencies": {}
+}
